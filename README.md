@@ -139,3 +139,12 @@ functionalities. If they don’t match or entered account number doesn't exist t
                  6. Exit
                     - Takes back to customer login screen
 ```
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
